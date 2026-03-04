@@ -23,7 +23,7 @@ Abaixo, você encontrará o cronograma e os materiais divididos por aula. Cada p
 
 | Aula | Título | Conteúdo Principal | Links |
 | :--- | :--- | :--- | :--- |
-| **01** | **Fundamentos e Tipagem** | JDK/JRE/JVM, Tipos Primitivos, Wrappers, Listas e Scanner. | [Resumo](./aula01/README.md) \| [Exercício](./aula01/EXERCICIO.md) \| [Código](./aula01/Main.java) |
+| **01** | **Fundamentos e Tipagem** | JDK/JRE/JVM, Tipos Primitivos, Wrappers, Listas e Scanner. | [Resumo](./aula01/RESUMO.md) \| [Exercício](./aula01/EXERCICIO.md) \| [Código](./aula01/Main.java) |
 | **02** | *Em breve...* | Introdução a Classes e Objetos (Atributos e Métodos). | - |
 
 ---
