@@ -30,7 +30,7 @@ public class Main {
         byte tipoNumeroMuitoPequeno = 127;           // Inteiro minúsculo (8 bits)
 
         // --- 3. OPERAÇÕES MATEMÁTICAS E FORMATAÇÃO ---
-        float resultado = 4.0f / 3.4f;
+        float resultado = 4.0f / 3.0f; // Divisão inteira
         // String.format funciona de forma similar ao printf do C ou format do Python.
         System.out.println("Resultado da divisão: " + String.format("%.2f", resultado));
 

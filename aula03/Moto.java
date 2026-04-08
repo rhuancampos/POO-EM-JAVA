@@ -3,7 +3,7 @@ public class Moto extends Veiculo {
 
   public Moto(int ano, String combustivel, String cor,
      String marca, String modelo, int qntRodas) {
-    // SUPER ele chama o construto da classe pai, ou seja, da classe Veiculo
+    // SUPER ele chama o construtor da classe pai, ou seja, da classe Veiculo
     super(ano, combustivel, cor, marca, modelo);
     this.qntRodas = qntRodas;
   }

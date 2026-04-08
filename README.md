@@ -19,12 +19,15 @@ Para rodar os códigos deste repositório, você precisará de:
 
 ## 📚 Sumário das Aulas
 
-Abaixo, você encontrará o cronograma e os materiais divididos por aula. Cada pasta contém o código-fonte, um resumo teórico e uma lista de exercícios.
+Abaixo, você encontrará o cronograma e os materiais divididos por aula. Cada pasta contém o código-fonte e exemplos usados em sala.
 
 | Aula | Título | Conteúdo Principal | Links |
 | :--- | :--- | :--- | :--- |
 | **01** | **Fundamentos e Tipagem** | JDK/JRE/JVM, Tipos Primitivos, Wrappers, Listas e Scanner. | [Resumo](./aula01/RESUMO.md) \| [Exercício](./aula01/EXERCICIO.md) \| [Código](./aula01/Main.java) |
-| **02** | *Em breve...* | Introdução a Classes e Objetos (Atributos e Métodos). | - |
+| **02** | **Classes e Objetos** | Atributos, métodos, encapsulamento, construtores. | [Código: Main](./aula02/Main.java) \| [Casa](./aula02/Casa.java) \| [Quarto](./aula02/Quarto.java) |
+| **03** | **Herança e Polimorfismo** | Herança, classes abstratas, sobrescrita de métodos. | [Código: Main](./aula03/Main.java) \| [Carro](./aula03/Carro.java) \| [Moto](./aula03/Moto.java) \| [Veiculo](./aula03/Veiculo.java) |
+| **04** | **Encapsulamento e Exceções** | Encapsulamento, composição, leitura/escrita básica de arquivos (CSV). | [Código: Main](./aula04/Main.java) \| [Pessoa](./aula04/Pessoa.java) \| [Gerente](./aula04/Gerente.java) \| [Usuario](./aula04/Usuario.java) \| [teste.csv](./aula04/teste.csv) |
+| **05** | **Pacotes e Modelagem** | Organização por pacotes, polimorfismo em hierarquias (Animal). | [Código: Main](./aula05/Main.java) \| [Animal](./aula05/model/Animal.java) \| [Cachorro](./aula05/model/Cachorro.java) \| [Gato](./aula05/model/Gato.java) |
 
 ---
 
